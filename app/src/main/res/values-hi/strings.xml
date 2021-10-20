@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java Coffee</string>
+    <string name="thank_you"> धन्यवाद ☕ </string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="whipped_cream">फेटी हुई मलाई </string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="quantity">मात्रा</string>
+    <string name="order">आर्डर करें</string>
+    <string name="name">नाम</string>
+    <string name="Dec">-</string>
+    <string name="Inc">+</string>
+    <string name="Initial_value">1</string>
+    <string name="toast1">आपके पास 1 से कम कॉफी नहीं हो सकती</string>
+    <string name="toast2">आपके पास १०० से अधिक कॉफी नहीं हो सकती</string>
+    <string name="greet" translatable="false">कॉफी हमेशा एक अच्छा विचार है</string>
+
+
+    <string name="order_summary_name">• नाम : <xliff:g id="name" example ="Amy">%s
+        </xliff:g></string>
+
+    <string name="whipped_cream_java" translatable="false">• फेटी हुई मलाई डालें :  <xliff:g id="cream" example = "true">%s
+        </xliff:g></string>
+
+    <string name="chocolate_java" translatable="false">• चॉकलेट डालें :  <xliff:g id="hasChocolate" example = "true">%s
+        </xliff:g></string>
+
+    <string name="quantity_java" translatable="false">• मात्रा : <xliff:g id="quantity" example = "abc">%s
+        </xliff:g></string>
+    <string name="total_java" translatable="false">• कुल : ₹<xliff:g id="number" example = "abc">%s
+        </xliff:g></string>
+    <string name="company" translatable="false"> © 2021 Just Java. All Rights Reserved.</string>
+</resources>

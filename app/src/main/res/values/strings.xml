@@ -1,0 +1,37 @@
+<resources
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java Coffee</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+        <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <string name="Dec">-</string>
+    <string name="Inc">+</string>
+    <string name="order">ORDER</string>
+    <string name="name">Name</string>
+    <string name="Initial_value">1</string>
+    <string name="toast1">you cannot have less than 1 coffee</string>
+    <string name="toast2">you cannot have more than 100 coffee</string>
+
+
+
+    <string name="order_summary_name">• Name : <xliff:g id="name" example ="Amy">%s
+        </xliff:g>
+    </string>
+
+    <string name="whipped_cream_java" translatable="false"> • Add whipped cream : <xliff:g id="hasWhippedCream" example = "true">%s
+        </xliff:g>
+   </string>
+    <string name="chocolate_java" translatable="false"> • Add chocolate :  <xliff:g id="hasChocolate" example = "true">%s
+        </xliff:g>
+   </string>
+    <string name="quantity_java" translatable="false">• Quantity : <xliff:g id="quantity" example = "abc">%s
+        </xliff:g>
+    </string>
+    <string name="total_java" translatable="false">• Total : ₹<xliff:g id="number" example = "abc">%s
+        </xliff:g>
+    </string>
+    <string name="thank_you"> Thank you ☕️</string>
+    <string name="greet" translatable="false"> Coffee is always a good idea. </string>
+    <string name="company" translatable="false"> © 2021 Just Java. All Rights Reserved.</string>
+</resources>
